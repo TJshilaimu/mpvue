@@ -1,0 +1,3 @@
+export default {
+    arr:['/static/images/x1.jpg','/static/images/x2.jpg','/static/images/x4.jpg','/static/images/lyf.jpg','/static/images/x5.jpg','/static/images/caomei.jpg','/static/images/x1.jpg','/static/images/x2.jpg','/static/images/x4.jpg','/static/images/lyf.jpg','/static/images/x5.jpg','/static/images/caomei.jpg','/static/images/x1.jpg','/static/images/x2.jpg','/static/images/x4.jpg','/static/images/lyf.jpg','/static/images/x5.jpg','/static/images/lyf.jpg','/static/images/timg.jpg','/static/images/x2.jpg','/static/images/x4.jpg','/static/images/lyf.jpg','/static/images/x5.jpg','/static/images/caomei.jpg']
+}
