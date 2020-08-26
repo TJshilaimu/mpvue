@@ -1,10 +1,12 @@
 {
   "pages": [
-    "pages/category/main",
     "pages/index/main",
-    "pages/find/main",
     "pages/shopCar/main",
+    "pages/login/main",
+    "pages/register/main",
     "pages/home/main",
+    "pages/find/main",
+    "pages/category/main",
     "pages/imgInfo/main"
   ],
   "window": {

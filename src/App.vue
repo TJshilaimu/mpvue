@@ -1,7 +1,10 @@
 <script>
 export default {
   created () {
-    
+    wx.cloud.init({
+      traceUser:true,
+      env:'test-41qbp'
+    })
 
     let logs
     if (mpvuePlatform === 'my') {

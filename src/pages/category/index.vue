@@ -33,7 +33,6 @@
 			}
 		},
 		mounted(){
-			console.log(foodData)
 			this.navList=foodData.navList;
 			this.foodList= foodData.classifyData
 		},
